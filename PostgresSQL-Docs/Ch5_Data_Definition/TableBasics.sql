@@ -58,6 +58,5 @@ CREATE TABLE poeple (
 );
 
 
-
-
+drop table products;
 
